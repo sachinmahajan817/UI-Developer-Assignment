@@ -1,2 +1,2 @@
 # UI-Developer-Assignment
-Using Javascript, CSS and HTML
+ DemoApp consultancy approached you to deliver their HTML  website based on the following templates.
